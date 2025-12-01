@@ -1,6 +1,6 @@
 name: astrbot_plugin_fox_status
 display_name: Fox状态监控
 desc: 一个用于获取 AstrBot 服务器状态的插件。
-version: v1.0.0
+version: v1.0.1
 author: GoodBoyboy
 repo: https://github.com/GoodBoyboy666/astrbot_plugin_fox_status
